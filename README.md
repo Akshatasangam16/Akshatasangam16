@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshata Sangam</h1>
-<h3 align="center">A passionate developer from India. Btech. Artificial Intelligence and Data Science Student</h3>
+<h3 align="center">A passionate developer with a B.Tech in Artificial Intelligence and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatasangam16&label=Profile%20views&color=0e75b6&style=flat" alt="akshatasangam16" /> </p>
 
